@@ -5,7 +5,7 @@ This is a Java implementation of the Ant Colony Optimization algorithm for short
 " Shortest Path Problem Solving Based on Ant Colony Optimization Metaheuristic" by 
 M. Głabowski, B. Musznicki, P. Nowak and P. Zwierzykowski
 
-https://doi.org/10.2478/v10248-012-0011-5
+https://www.researchgate.net/publication/234065233_Shortest_Path_Problem_Solving_Based_on_Ant_Colony_Optimization_Metaheuristic
 
 
 To execute this program you need to input a .csv file which defines the graph structure placed in the /graph folder.
