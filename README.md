@@ -5,6 +5,7 @@ This is a Java implementation of the Ant Colony Optimization algorithm for short
 " Shortest Path Problem Solving Based on Ant Colony Optimization Metaheuristic" by 
 M. Głabowski, B. Musznicki, P. Nowak and P. Zwierzykowski
 
+You can find the referenced paper here:
 https://www.researchgate.net/publication/234065233_Shortest_Path_Problem_Solving_Based_on_Ant_Colony_Optimization_Metaheuristic
 
 
